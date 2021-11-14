@@ -1,0 +1,4 @@
+- pipeline.id: el
+  pipeline.workers: 1
+  pipeline.batch.size: 1
+  config.string: "./elastic_flow.conf"
