@@ -1,4 +1,4 @@
-package ir.bmi.baam.logserver;
+package logserver;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.extern.log4j.Log4j2;

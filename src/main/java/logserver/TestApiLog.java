@@ -1,4 +1,4 @@
-package ir.bmi.baam.logserver;
+package logserver;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.kafka.core.KafkaTemplate;

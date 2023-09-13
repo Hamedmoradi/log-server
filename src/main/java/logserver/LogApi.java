@@ -1,4 +1,4 @@
-package ir.bmi.baam.logserver;
+package logserver;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

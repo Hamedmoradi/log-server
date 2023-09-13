@@ -9,7 +9,7 @@
     <version>2.5.6</version>
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
-  <groupId>ir.bmi.baam</groupId>
+  <groupId>log.server.service</groupId>
   <artifactId>log-server</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>log-server</name>
