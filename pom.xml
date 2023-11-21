@@ -17,7 +17,7 @@
 
   <properties>
     <java.version>11</java.version>
-    <kafka.version>2.7.2</kafka.version>
+    <kafka.version>3.1.0</kafka.version>
   </properties>
 
   <dependencies>
